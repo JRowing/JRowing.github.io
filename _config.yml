@@ -1,14 +1,14 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Joe Rowing
+bio: Physics Education
 
-description: Eve Adam's Personal Website
+description: Joe Rowing's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://jrowing.github.io/
 
 # do you want to display social media links? true or false
 social-media: true
@@ -78,7 +78,7 @@ project-list:
 
 
 # do you want to display the theme attribution? true or false
-footer: true
+footer: false
 
 # Enable animations? true or false
 animation: true
