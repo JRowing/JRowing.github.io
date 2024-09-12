@@ -11,14 +11,14 @@ picture: assets/images/profile.jpg
 url: https://jrowing.github.io/
 
 # do you want to display social media links? true or false
-social-media: false
+social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# twitter: mytwitter
+# linkedin: mylinkedin
+github: https://github.com/jrowing
+# email: myemail@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
