@@ -100,4 +100,9 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+    {% if site.bandcamp %}
+        <a class="link" data-title="{{ site.bandcamp }}.bandcamp.com/" href="https://{{ site.bandcamp }}.bandcamp.com/">
+            <svg class="icon icon-bandcamp"><use xlink:href="#icon-bandcamp"></use></svg>
+        </a>
+    {% endif %}
 </div>
