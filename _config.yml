@@ -51,9 +51,11 @@ skills-list:
     - Python
     - Curriculum planning
     - School Leadership
+    - Teacher Training
+    - Education Theory
 
 # do you want to display a projects section? true or false
-projects: false
+projects: true
 
 # add your projects here
 project-list:
