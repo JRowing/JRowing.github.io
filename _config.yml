@@ -61,27 +61,7 @@ projects: false
 projects: false
 
 # add your projects here
-project-list:
-    Exeter-Maths-School:
-        name: Exeter Maths School
-        description: Instrumental in the establishment of Exeter Maths School, a specialist sixth form college for talented mathematicians aged 16-19. 
-        url: https://exetermathematicsschool.ac.uk/
-    GCSE-Physics:
-        name: GCSE Physics Enhancement programme
-        description:  This programme offers a unique blend of problem-solving activities, and enrichment sessions, encouraging students to explore advanced concepts and develop their analytical and experimental skills.
-        url:
-    IoP-Physics-Coach:
-        name: IoP Physics Coach
-        description: As a Physics Coach, I provided expert guidance and support to teachers, helping to improve the quality of physics education and student outcomes. 
-        url:
-    Hodder:
-        name: Edexcel A Level Physics Teaching and Learning Resources
-        description:  A suite of educational materials designed to support teachers and students in delivering and studying the Edexcel A Level Physics course.
-        url: https://openlibrary.org/books/OL37962284M/Edexcel_a_Level_Physics_2_Teaching_and_Learning_Resources
-     NASA:
-        name: NASA NEEMO 16 project
-        description:  An educational initiative designed to engage students with science, technology, engineering, and mathematics (STEM) through the lens of space exploration and underwater research. 
-        url:
+
 # do you want to display the theme attribution? true or false
 footer: false
 
