@@ -55,12 +55,14 @@ skills-list:
     - Education Theory
 
 # do you want to display a projects section? true or false
-projects: false
-
-# do you want to display a projects section? true or false
-projects: false
+projects: true
 
 # add your projects here
+project-list:
+    PhysNotes:
+        name: Physics Notes
+        description: Complete textbook/notes for the A-level Physics course.
+        url: https://github.com/jrowing/EMS-Physics-Notes
 
 # do you want to display the theme attribution? true or false
 footer: false
