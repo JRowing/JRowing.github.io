@@ -47,11 +47,7 @@ skills: true
 
 # add your skills here
 skills-list:
-    - Leadership and Management
-        - Leading teams in educational settings, including as Deputy Headteacher.
-        - Establishing and managing academic programmes and institutions (e.g., Exeter Maths School).
-        - Strategic planning and implementation of school initiatives.
-        - Mentoring and professional development for staff.
+    - Leadership and Management: [- "Leading teams in educational settings, including as Deputy Headteacher.", "Establishing and managing academic programmes and institutions (e.g., Exeter Maths School).","Strategic planning and implementation of school initiatives.","Mentoring and professional development for staff."]
     - Teaching and Curriculum Design
         - Expertise in teaching Physics, particularly at A Level.
         - Curriculum development for STEM subjects, including Mathematics and Physics.
