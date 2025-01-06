@@ -43,11 +43,11 @@ width: normal
 about: true
 
 # do you want to display a skills section? true or false
-skills: false
+skills: true
 
 # add your skills here
 skills-list:
-    - Leadership and Management:
+    - Leadership and Management
     - Leading teams in educational settings, including as Deputy Headteacher.
     - Establishing and managing academic programmes and institutions (e.g., Exeter Maths School).
     - Strategic planning and implementation of school initiatives.","Mentoring and professional development for staff.
