@@ -59,7 +59,7 @@ projects: true
 
 # add your projects here
 project-list:
-     EMS:
+    EMS:
         name: Exeter Maths School
         description: Instrumental in the establishment of Exeter Maths School, a specialist sixth form college for talented mathematicians aged 16-19. As part of the founding team, Joe played a key role in designing and implementing the curriculum, the safeguarding, pastoral and behaviour policies, careers and university progression. Also Establishing the boarding provision, establishing the physics lab, building strong partnerships with local universities and industries, and fostering a culture of academic excellence and innovation. Leadership contributed to the school’s success in providing an outstanding education, nurturing students’ passion for STEM, and achieving national recognition as a centre of excellence for mathematics and physics.
         url: https://exetermathematicsschool.ac.uk/
