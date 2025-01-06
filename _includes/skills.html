@@ -1,5 +1,14 @@
 <ul class="skill-list">
-	{% for skill in site.skills-list %}
-		<li>{{ skill }}</li>
-	{% endfor %}
+  {% for skill, subskills in site.skills-list %}
+    <li>
+      {{ skill }}
+      {% if subskills %}
+        <ul class="subskill-list">
+          {% for subskill in subskills %}
+            <li>{{ subskill }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
+  {% endfor %}
 </ul>
